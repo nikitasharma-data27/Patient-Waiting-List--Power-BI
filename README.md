@@ -39,6 +39,7 @@ The dashboard uses **interactive slicers** and **dynamic DAX measures** to help 
 
 ## 📊 Dashboard Preview
 <img width="1164" height="655" alt="Screenshot 2025-09-13 200231" src="https://github.com/user-attachments/assets/f084769d-dda8-4348-b489-afda98302d95" />
+<img width="1312" height="732" alt="Screenshot 2025-09-13 232855" src="https://github.com/user-attachments/assets/65d3f77e-88be-4cfa-b7f3-4a3013638a8a" />
 
 
 ---
